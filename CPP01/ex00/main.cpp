@@ -6,11 +6,11 @@
 /*   By: yaperalt <yaperalt@student.42malaga.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/03 20:32:58 by yaperalt          #+#    #+#             */
-/*   Updated: 2026/10/04 01:34:19 by yaperalt         ###   ########.fr       */
+/*   Updated: 2026/10/25 14:56:21 by yaperalt         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "zombie.hpp"
+#include "include/zombie.hpp"
 
 /**
  * We can see that creating a zombie on the heap will make it persistent
